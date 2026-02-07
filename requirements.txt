@@ -1,0 +1,10 @@
+streamlit==1.54.0
+pydantic==2.12.5
+python-dotenv==1.2.1
+pyyaml==6.0.3
+sqlite3
+requests
+presidio-analyzer
+presidio-anonymizer
+langchain
+
