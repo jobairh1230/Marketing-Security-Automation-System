@@ -1,8 +1,8 @@
 import streamlit as st
 import json
-from app.marketing.generate import generate_marketing_content
 from app.marketing.store import create_draft, list_items, update_status, get_item
 import pandas as pd
+from app.marketing.generate import generate_marketing_content
 import sys
 import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
