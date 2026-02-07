@@ -1,7 +1,7 @@
 streamlit
 pydantic
 python-dotenv
-yaml
+pyyaml
 sqlite
 presidio-analyzer
 presidio-anonymizer
