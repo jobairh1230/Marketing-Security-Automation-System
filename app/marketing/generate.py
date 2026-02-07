@@ -4,6 +4,7 @@ from app.marketing import load_prompt_yaml, render_user_template
 from dotenv import load_dotenv
 import os
 from app.marketing.generate import generate_marketing_content
+from app.marketing.load_prompt_yaml import load_prompt_yaml
 
 load_dotenv()
 
