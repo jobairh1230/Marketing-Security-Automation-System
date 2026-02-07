@@ -2,7 +2,6 @@ streamlit
 pydantic
 python-dotenv
 pyyaml
-sqlite3
 presidio-analyzer
 presidio-anonymizer
 langchain
